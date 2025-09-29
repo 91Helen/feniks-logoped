@@ -11,7 +11,7 @@ Built with semantic HTML, custom CSS, and interactive JavaScript features to sho
 ### 📸 Screenshots  
 
 **Desktop version:**  
-![Feniks-Logo Desktop](./Images/screenshot-desktop.png)  
+![Feniks-Logo Desktop](https://github.com/91Helen/feniks-logoped/blob/main/main%20view%20(2).png?raw=true)  
 
 **Mobile version:**  
 ![Feniks-Logo Mobile](./Images/screenshot-mobile.png)  
