@@ -8,6 +8,15 @@ Built with semantic HTML, custom CSS, and interactive JavaScript features to sho
 🌐 **Live Demo:** [feniks-logo.kz](https://feniks-logo.kz/)  
 
 ---
+### 📸 Screenshots  
+
+**Desktop version:**  
+![Feniks-Logo Desktop](./Images/screenshot-desktop.png)  
+
+**Mobile version:**  
+![Feniks-Logo Mobile](./Images/screenshot-mobile.png)  
+
+---
 
 ### 🚀 Tech Stack  
 
